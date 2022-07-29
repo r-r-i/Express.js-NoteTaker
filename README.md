@@ -35,7 +35,7 @@ npm i uuid
 ```
 ## Usage Information
 
-This application has both front and back end elements tied to it. You can interact with the application via the Heroku link. If you wish to make any changes, you must install Node.js. Ensure you also have the [uuid](https://www.npmjs.com/package/uuid) npm package installed also.
+This application has both front and back end elements tied to it. You can interact with the application via the Heroku link. If you wish to make any changes, you must install Node.js. Ensure you also have the [uuid](https://www.npmjs.com/package/uuid) npm package installed.
 
 ## License
 
