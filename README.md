@@ -20,8 +20,8 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
 ## Submission
 
-GitHub Repo URL: https://github.com/r-r-i/Express.js-NoteTaker
-Heroku Deployed link: https://dry-tundra-41202.herokuapp.com/
+- GitHub Repo URL: https://github.com/r-r-i/Express.js-NoteTaker
+- Heroku Deployed link: https://dry-tundra-41202.herokuapp.com/
 
 ## Installation Instructions
 
